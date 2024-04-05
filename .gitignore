@@ -1,0 +1,8 @@
+.config.fish.swp
+fishd.*
+conf.d
+completions
+*.backup
+fish_variables
+functions/tide*
+functions/_tide*
